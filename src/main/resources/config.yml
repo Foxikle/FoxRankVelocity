@@ -1,0 +1,6 @@
+file-version: 1
+sqlHost: localhost
+sqlPort: 3301
+sqlName: foxrank
+sqlUsername: root
+sqlPassword: password
